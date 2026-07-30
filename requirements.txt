@@ -1,0 +1,12 @@
+# Core
+torch>=2.0
+numpy
+tqdm
+
+# Embedding / LLM stack
+sentence-transformers
+transformers
+peft
+accelerate
+openai
+httpx
